@@ -1,5 +1,5 @@
 # app.py - Versión inicial
 def mostrar_bienvenida():
-    print("Bienvenido al sistema.")
+    print("Estimado usuario, sea bienvenido al sistema enterprise.")
 
 mostrar_bienvenida()
