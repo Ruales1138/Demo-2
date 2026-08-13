@@ -1,3 +1,3 @@
 # app.py - Versión inicial
 def mostrar_bienvenida():
-    print("Bienvenido al sistema")
+     print("¡Hola crack! Bienvenido a la app.")
